@@ -3,7 +3,9 @@
 <h1 align="center">Hello 👋, I'm Kalin Todorov</h1>
 <h3 align="center">A passionate Full-Stack .NET developer from Bulgaria</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<p align="center">
+  <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalin1603&label=Profile%20views&color=0e75b6&style=flat" alt="kalin1603" />
