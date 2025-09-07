@@ -1,7 +1,7 @@
 ![banner](https://github.com/Kalin1603/Kalin1603/assets/65806915/5ad0de54-842d-47f0-9273-cc9d83635666)
 
 <h1 align="center">Hello 👋, I'm Kalin Todorov</h1>
-<h3 align="center">A passionate Full-Stack .NET developer from Bulgaria</h3>
+<h3 align="center">A passionate developer from Bulgaria</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalin1603&label=Profile%20views&color=0e75b6&style=flat" alt="kalin1603" />
