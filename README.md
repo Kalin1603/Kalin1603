@@ -1,17 +1,17 @@
 ![banner](https://github.com/Kalin1603/Kalin1603/assets/65806915/5ad0de54-842d-47f0-9273-cc9d83635666)
 
-<h1 align="center">Hello 👋, I'm Kalin Todorov</h1>
-<h3 align="center">A passionate developer from Bulgaria</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalin1603&label=Profile%20views&color=0e75b6&style=flat" alt="kalin1603" />
-</p>
-
 ---
 
 <table>
 <tr>
 <td width="60%" valign="top">
+
+<h1>Hello 👋, I'm Kalin Todorov</h1>
+<h3>A passionate Full-Stack .NET developer from Bulgaria</h3>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kalin1603&label=Profile%20views&color=0e75b6&style=flat" alt="kalin1603" />
+</p>
 
 - 🌱 Currently learning **Java & Quarkus**  
 - 💻 Working with **.NET 9, ASP.NET Core MVC, Entity Framework Core**  
@@ -33,7 +33,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" width="300"/>
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" width="350"/>
 
 </td>
 </tr>
