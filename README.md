@@ -4,14 +4,14 @@
 <h3 align="center">A passionate Full-Stack .NET developer from Bulgaria</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" width="350"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalin1603&label=Profile%20views&color=0e75b6&style=flat" alt="kalin1603" />
 </p>
 
 ---
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 - 🌱 Currently learning **Java & Quarkus**  
 - 💻 Working with **.NET 9, ASP.NET Core MVC, Entity Framework Core**  
@@ -20,10 +20,8 @@
 - 📫 Reach me at **kalintodorov03@gmail.com**  
 - 🎯 Fun fact: **I love building apps that combine performance and clean design**  
 
----
-
-<h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
+<h3>🌐 Connect with me:</h3>
+<p>
   <a href="https://www.linkedin.com/in/k-todorov/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
@@ -31,6 +29,15 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
