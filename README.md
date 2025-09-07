@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full-Stack .NET developer from Bulgaria</h3>
 
 <p align="center">
-  <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" width="350"/>
 </p>
 
 <p align="center">
