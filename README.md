@@ -11,7 +11,7 @@
 <td width="60%" valign="top">
 
 <h1>👋 Hi, I'm Kalin Todorov</h1>
-<h3>💻 Developer | Based in Bulgaria</h3>
+<h3>💻 Web & Software Developer | Based in Bulgaria</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=kalin1603&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
