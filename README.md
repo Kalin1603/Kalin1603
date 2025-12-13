@@ -11,7 +11,7 @@
 <td width="60%" valign="top">
 
 <h1>👋 Hi, I'm Kalin Todorov</h1>
-<h3>💻 Web & Software Developer | Based in Bulgaria</h3>
+<h3>💻 Full Stack Developer | Based in Bulgaria</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=kalin1603&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -19,7 +19,7 @@
 
 - 🌱 Currently learning **Java & Quarkus**  
 - 💻 Building with **.NET 9, ASP.NET Core MVC, EF Core**  
-- 🗄️ Databases: **SQL Server, MySQL**  
+- 🗄️ Databases: **SQL Server, MySQL, PostgreSQL**  
 - ⚡ Exploring **React, Tailwind CSS, Docker, caching strategies**  
 - 📫 Reach me at **kalintodorov03@gmail.com**  
 - 🎯 Fun fact: I love creating apps that balance **performance + clean design**  
