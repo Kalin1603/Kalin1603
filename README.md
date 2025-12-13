@@ -69,7 +69,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kalin1603&show_icons=true&locale=en&theme=tokyonight" alt="stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalin1603&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" height="160"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalin1603&theme=tokyonight" alt="streak" height="160"/>
-</p>
