@@ -14,11 +14,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/k-todorov/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/k_todorrovv/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
 
@@ -39,7 +38,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="middle">
+<td width="62%" valign="middle">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,react,tailwind,docker,mysql,postgres,git,html,css" alt="Tech stack icons" />
@@ -53,7 +52,7 @@
 </p>
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding GIF" width="260" />
 
@@ -63,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kalin1603&theme=tokyonight&hide_border=true" alt="GitHub streak" />
