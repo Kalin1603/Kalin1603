@@ -7,40 +7,40 @@
 
 <!-- Hero Section -->
 <table>
-<tr>
-<td width="60%" valign="top">
+  <tr>
+    <td width="60%" valign="top">
 
-<h1>👋 Hi, I'm Kalin Todorov</h1>
-<h3>💻 Full Stack Developer | Based in Bulgaria</h3>
+      <h1>👋 Hi, I'm Kalin Todorov</h1>
+      <h3>💻 Full Stack Developer | Based in Bulgaria</h3>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=kalin1603&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=kalin1603&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+      </p>
 
-- 🌱 Currently learning **Java & Quarkus**  
-- 💻 Building with **.NET 9, ASP.NET Core MVC, EF Core**  
-- 🗄️ Databases: **SQL Server, MySQL, PostgreSQL**  
-- ⚡ Exploring **React, Tailwind CSS, Docker, caching strategies**  
-- 📫 Reach me at **kalintodorov03@gmail.com**  
-- 🎯 Fun fact: I love creating apps that balance **performance + clean design**  
+      <ul>
+        <li>🌱 Currently learning <b>Java & Quarkus</b></li>
+        <li>💻 Building with <b>.NET 9, ASP.NET Core MVC, EF Core</b></li>
+        <li>🗄️ Databases: <b>SQL Server, MySQL, PostgreSQL</b></li>
+        <li>⚡ Exploring <b>React, Tailwind CSS, Docker, caching strategies</b></li>
+        <li>📫 Reach me at <b>kalintodorov03@gmail.com</b></li>
+        <li>🎯 Fun fact: I love creating apps that balance <b>performance + clean design</b></li>
+      </ul>
 
-<h3>🌐 Connect with me</h3>
-<p>
-  <a href="https://www.linkedin.com/in/k-todorov/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/k_todorrovv/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/>
-  </a>
-</p>
+      <h3>🌐 Connect with me</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/k-todorov/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
+        </a>
+        <a href="https://www.instagram.com/k_todorrovv/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/>
+        </a>
+      </p>
 
-</td>
-<td width="40%" align="center">
-
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding GIF" width="350"/>
-
-</td>
-</tr>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding GIF" width="350"/>
+    </td>
+  </tr>
 </table>
 
 ---
