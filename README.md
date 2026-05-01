@@ -4,11 +4,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kalin Todorov</h1>
-<h3 align="center">Full Stack Developer from Bulgaria 🇧🇬</h3>
+<h3 align="center">Full Stack Developer from Bulgaria 🇧🇬 <img src="https://komarev.com/ghpvc/?username=kalin1603&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalin1603&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 <p align="center"><b>Connect with me</b></p>
 
